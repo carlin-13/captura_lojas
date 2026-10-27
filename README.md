@@ -1,4 +1,4 @@
-# Automação de Captura de Lojas e PDVs 🏪
+# Automação de Captura de Lojas e PDVs 
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Requests / Selenium](https://img.shields.io/badge/Web_Scraping-gray.svg)]()
