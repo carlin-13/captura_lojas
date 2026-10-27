@@ -6,7 +6,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / 'data'
 OUTPUT_DIR = BASE_DIR / 'output' #output é a pasta onde será salvo o resultado final do cruzamento entre a base de lojas e a planilha Fibra, com a coluna de perfil adicionada
-PROJECT_ID = "projeto-512217"  #iD do meu projeto
+PROJECT_ID = "id-do-projeto"  #iD do meu projeto
 
 
 #função principal 
